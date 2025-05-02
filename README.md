@@ -85,5 +85,4 @@ This mirrors what companies deploy when they need:
 ## Author
 
 **Mohamed Baker**  
-DevOps & Cloud Engineer  
-[GitHub](https://github.com/moebaker) | moebaker954@gmail.com
+
