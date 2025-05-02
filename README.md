@@ -86,4 +86,4 @@ This mirrors what companies deploy when they need:
 
 **Mohamed Baker**  
 DevOps & Cloud Engineer  
-[GitHub](https://github.com/moebaker) | [LinkedIn](https://linkedin.com/in/mohamed-baker) | moebaker954@gmail.com
+[GitHub](https://github.com/moebaker) | moebaker954@gmail.com
